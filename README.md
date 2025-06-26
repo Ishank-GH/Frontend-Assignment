@@ -50,11 +50,12 @@ npm install
 
 ![image](https://github.com/user-attachments/assets/15c61872-466b-4a84-86a9-be1b436cf191)
 ![image](https://github.com/user-attachments/assets/d0ab7421-1a64-43bd-9d1c-797e77798aef)
+![image](https://github.com/user-attachments/assets/729c6342-9665-42cd-8bb9-146ec0caef14)
+![image](https://github.com/user-attachments/assets/f4259e28-9275-4edd-b4c0-eb7afa355ef5)
 ![image](https://github.com/user-attachments/assets/ff3ca50b-7006-4c5d-b9dd-c2938da14a9c)
 
-![image](https://github.com/user-attachments/assets/5151ef96-1148-4f15-946e-9de2235f1775)
 
-Mobile:
+
 ![image](https://github.com/user-attachments/assets/3cc22dca-9b70-4782-b6b0-a20aca1f8c1b)
 ![image](https://github.com/user-attachments/assets/98014166-16ca-482b-ad51-2cb1266e1637)
 ![image](https://github.com/user-attachments/assets/38777f33-c747-4936-93da-e8849255a2c3)

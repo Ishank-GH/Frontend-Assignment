@@ -46,6 +46,12 @@ npm install
 
 ---
 
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/15c61872-466b-4a84-86a9-be1b436cf191)
+![image](https://github.com/user-attachments/assets/15c61872-466b-4a84-86a9-be1b436cf191)
+
+
 ## 🙏 Acknowledgements
 
 Thank you for reviewing my submission!
